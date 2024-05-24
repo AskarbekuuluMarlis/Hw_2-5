@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hw_2-5</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Pasword</string>
+    <string name="register">Register</string>
+    <string name="next">Next</string>
+    <string name="dragon">Dragon</string>
+</resources>
